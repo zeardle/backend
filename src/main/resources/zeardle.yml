@@ -1,0 +1,9 @@
+zeardle:
+  data-path: "data"
+  cache-album-art: false
+  default-artwork-path: "static/images/defaultart.png"
+  temp-files-path: "temp"
+  temp-song-lifetime: 30
+  max-song-length: 30
+  soundcloud:
+    client-id: iyGXviHE8xjNOJChYIx9xdZ2WKCqCfQm
