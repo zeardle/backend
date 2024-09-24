@@ -7,7 +7,7 @@ spring:
         registration:
           discord:
             client-id: 1250958538558279742
-            client-secret: 7UGNJwPIumCPxjAIJxo79kCpf0LjihpK
+            client-secret: redacted
             scope: identify, webhook.incoming
             redirect-uri: "{baseUrl}/login/oauth2/code/{registrationId}"
             client-name: Discord
